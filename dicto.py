@@ -1,3 +1,4 @@
+#i changed the commands
 read = open('file.txt','r+')
 lines = read.readlines()
 dict1 ={}
